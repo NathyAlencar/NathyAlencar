@@ -1,5 +1,5 @@
 # Olá👋🏻! Me chamo Nathalia Maisa 
-### Sou estudante de Ciências da Computação.
+### Sou estudante de Ciências da Computação...
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nath%C3%A1lia-ma%C3%ADsa-alencar-de-ara%C3%BAjo-74b3b723a/)

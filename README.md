@@ -1,5 +1,7 @@
-# Olá👋🏻! Me chamo Nathalia Maisa 
-### Sou estudante de Ciências da Computação...
+# Olá👋🏻! Me chamo Nathalia Maisa Alencar de Araujo
+### 👋 Olá! Sou uma estudante de Ciências da Computação do 5º período. Tenho 20 anos de idade, e atualmente estou empenhado em expandir meu conhecimento e habilidades na área de desenvolvimento .NET. Além disso, recentemente comecei um curso de inglês para aprimorar minha comunicação e colaboração para um ambiente global. 
+### Também estou animado para mergulhar no mundo dos desenvolvimentos de jogos, começando com a plataforma Godot. Tenho um forte interesse em sistemas embarcados, manutenção de computadores e sou apaixonada por games. Estou sempre à procura de novos desafios e oportunidades para aprender.
+
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nath%C3%A1lia-ma%C3%ADsa-alencar-de-ara%C3%BAjo-74b3b723a/)

@@ -28,3 +28,13 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=Sailor-Moon&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/Sailor-Moon)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=dio-lab-open-source&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/dio-lab-open-source)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=DevMedia-Projetos_Front-end&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/DevMedia-Projetos_Front-end)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=trilha-net-fundamentos-desafio&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/trilha-net-fundamentos-desafio)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=ocean-jornada-frontend-junho-2024&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/ocean-jornada-frontend-junho-2024)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=Desafio_Classificador_de_nivel_de_Heroi-DIO&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/Desafio_Classificador_de_nivel_de_Heroi-DIO)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=Calculadora-em-C-&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/Calculadora-em-C-)

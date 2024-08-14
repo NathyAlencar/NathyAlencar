@@ -1,5 +1,5 @@
 # Olá👋🏻! Me chamo Nathalia Maisa Alencar de Araujo
-### 👋 Olá! Sou uma estudante de Ciências da Computação do 5º período. Tenho 20 anos de idade, e atualmente estou empenhado em expandir meu conhecimento e habilidades na área de desenvolvimento web. Além disso, comecei um curso de inglês para aprimorar minha comunicação e colaboração para um ambiente global. 
+### 👋 Olá! Sou uma estudante de Ciências da Computação do 6º período. Tenho 20 anos de idade, e atualmente estou empenhado em expandir meu conhecimento e habilidades na área de desenvolvimento web. Além disso, comecei um curso de inglês para aprimorar minha comunicação e colaboração para um ambiente global. 
 ### Também estou animado para mergulhar no mundo dos desenvolvimentos de jogos, começando com a plataforma Godot. Tenho um forte interesse em sistemas embarcados, manutenção de computadores e sou apaixonada por games. Estou sempre à procura de novos desafios e oportunidades para aprender.
 
 

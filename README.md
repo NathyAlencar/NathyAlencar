@@ -39,7 +39,6 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=DevMedia-Projetos_Front-end&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/DevMedia-Projetos_Front-end)
 
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=trilha-net-fundamentos-desafio&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/trilha-net-fundamentos-desafio)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=ocean-jornada-frontend-junho-2024&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/ocean-jornada-frontend-junho-2024)
@@ -49,3 +48,12 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=Calculadora-em-C-&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/Calculadora-em-C-)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=Calculadora-de-Partidas-Rankeadas---DIO&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/Calculadora-de-Partidas-Rankeadas---DIO)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=Desafio-de-Projeto-Tiny-Swords-Dio&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/Desafio-de-Projeto-Tiny-Swords-Dio)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=power_bi_analyst-DIO&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/power_bi_analyst-DIO)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=Desafio_Classes_de_um_Jogo_DIO&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/Desafio_Classes_de_um_Jogo_DIO)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=dio-java-basico&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/dio-java-basico)
+

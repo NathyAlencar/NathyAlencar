@@ -1,5 +1,5 @@
 # Olá👋🏻! Me chamo Nathalia Alencar
-### 👋 Olá! Sou uma estudante de Ciências da Computação. Tenho 21 anos de idade, e atualmente estou empenhada em expandir meu conhecimento e habilidades na área de Data Analytics com Power BI. Além disso, comecei um curso de inglês para aprimorar minha comunicação e colaboração para um ambiente global. 
+### 👋 Olá! Sou uma estudante de Ciências da Computação. Tenho 21 anos de idade, e atualmente estou empenhada em expandir meu conhecimento e habilidades na área de Data Analytics com Power BI.
 ### Também estou animado para mergulhar no mundo dos desenvolvimentos de jogos, principalmente pela plataforma Godot. Tenho um forte interesse em sistemas embarcados, manutenção de computadores e sou apaixonada por games. Estou sempre à procura de novos desafios e oportunidades para aprender.
 
 

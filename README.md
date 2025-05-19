@@ -34,7 +34,7 @@
 ## Meus Projetos
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=FLIPERAMA&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/FLIPERAMA)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=Sailor-Moon&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/Sailor-Moon)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=Formacao-React-Native-Developer-DIO&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/Formacao-React-Native-Developer-DIO)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathyAlencar&repo=dio-lab-open-source&bg_color=000&border_color=800080&show_icons=true&icon_color=800080&title_color=E94D5F&text_color=FFF)](https://github.com/NathyAlencar/dio-lab-open-source)
 
